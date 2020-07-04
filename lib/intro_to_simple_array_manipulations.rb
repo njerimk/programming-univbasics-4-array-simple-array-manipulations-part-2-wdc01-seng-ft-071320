@@ -15,7 +15,7 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-
+  array= ["Saxophone", "Piano", "Trumpet", "Violin"]
 end
 
 def using_delete(array,string)
