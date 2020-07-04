@@ -5,9 +5,8 @@ def using_concat(my_favorite_things,more_favs)
    @new_array=@my_favorite_things.concat(@all_my_favs)
 end
 
-def using_insert(list_of_programming_languages, another_language)
-  list_of_programming_languages=["Ruby", "Java"]
-  another_language=list_of_programming_languages.insert("Python")
+def using_insert(array, another_language)
+  
 end
 
 def using_uniq(array)
