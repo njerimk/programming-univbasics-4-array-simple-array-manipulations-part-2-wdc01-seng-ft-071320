@@ -6,7 +6,7 @@ def using_concat(my_favorite_things,more_favs)
 end
 
 def using_insert(array, another_language)
-  array=["Python","Love", "Java", "JavaScript","SQL", "C#", "CSS", "HTML"]
+  array=["Python","Love", "Java", "JavaScript","SQL", "C#", "CSS"]
   array.insert(4,"Python")
 end
 
