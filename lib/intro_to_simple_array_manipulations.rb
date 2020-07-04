@@ -7,7 +7,7 @@ end
 
 def using_insert(list_of_programming_languages, another_language)
   list_of_programming_languages=["Ruby", "Java"]
-  @another_language=["Python"]
+  @new_array=@another_language=["Python"]
   
 end
 
