@@ -7,8 +7,6 @@ end
 
 def using_insert(array, element)
   
-  @another_language=[]
-  
 end
 
 def using_uniq(array)
