@@ -1,6 +1,6 @@
 
 def using_concat(my_favorite_things,more_favs)
-   @my_favorite_things=["belly flops", "fun times", "love"]
+   @my_favorite_things=[]
    @all_my_favs=["raindrops on roses", "whiskers on kittens", "sports cars", "flatiron school"]
    @new_array=@my_favorite_things.concat(@all_my_favs)
 end
