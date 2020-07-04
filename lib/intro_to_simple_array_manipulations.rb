@@ -26,8 +26,7 @@ def using_delete(array,string)
   array.delete(sorry_steven)
 end
 
-
-
 def using_delete_at(array,integer)
-  
+  array=["Robocop", "Super Woman"]
+  array.delete_at(0,"Robocop")
 end
