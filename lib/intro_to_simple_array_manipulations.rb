@@ -7,7 +7,7 @@ end
 
 def using_insert(array, another_language)
   array=["Python","Love", "Java", "JavaScript","SQL", "C#", "CSS", "HTML"]
-  @another_language=["Python"]
+  @another_language=array.insert("Python")
 end
 
 def using_uniq(array)
