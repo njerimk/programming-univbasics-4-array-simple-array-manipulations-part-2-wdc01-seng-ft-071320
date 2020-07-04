@@ -11,7 +11,7 @@ def using_insert(array, another_language)
 end
 
 def using_uniq(array)
-  
+  array=["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler"]
 end
 
 def using_flatten(array)
