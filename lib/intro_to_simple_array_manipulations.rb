@@ -6,7 +6,7 @@ def using_concat(my_favorite_things,more_favs)
 end
 
 def using_insert(array, another_language)
-  
+  array=[]
 end
 
 def using_uniq(array)
