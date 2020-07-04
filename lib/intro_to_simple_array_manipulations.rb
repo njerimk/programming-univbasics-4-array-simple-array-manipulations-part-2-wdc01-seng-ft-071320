@@ -5,7 +5,7 @@ def using_concat(my_favorite_things,more_favs)
    @new_array=@my_favorite_things.concat(@all_my_favs)
 end
 
-def using_insert(array, element)
+def using_insert(array, another_language)
   
 end
 
